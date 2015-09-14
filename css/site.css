@@ -1,0 +1,11 @@
+.dc-chart g.row text {
+    fill: black;
+}
+
+.dc-chart .pie-slice {
+    fill:black;
+}
+
+.x-axis-label{
+    font-size:12px;
+}
